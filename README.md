@@ -18,7 +18,6 @@ The analysis investigates how various sandwich attributes—including type of br
 📁 datasets/             → CSV files containing the raw experimental data
 📁 src/sandwich\_problem/ → Python scripts for data loading, visualization, and analysis
 📁 results/              → Output figures, tables, and model summaries
-📁 tests/                → Unit tests for verifying analytical functions
 📄 pyproject.toml        → Poetry configuration for environment management
 📄 README.md             → Project overview and instructions (this file)
 
@@ -51,7 +50,7 @@ The project relies on the following core libraries:
 
 ## Full Report
 
-The complete academic report based on this code and analysis is available [here](https://github.com/MH-Alikhani/Ant-Attraction-to-Sandwich-Types---Statistical-Analysis/blob/main/report.pdf). It adheres to the standards of the TU Dortmund Data Science program and includes background, methodology, evaluation, and discussion.
+The complete academic report based on this code and analysis is available [here](https://github.com/MH-Alikhani/Ant-Attraction-to-Sandwich-Types---Statistical-Analysis/blob/main/results/report.pdf). It adheres to the standards of the TU Dortmund Data Science program and includes background, methodology, evaluation, and discussion.
 
 ---
 
