@@ -5,7 +5,7 @@
 ## Overview
 
 This repository contains the full code and data used for the statistical analysis presented in the report titled  
-**“Ant Attraction to Sandwich Types: A Statistical Evaluation”**, submitted as part of the application process for the **Master of Science in Data Science** program at **TU Dortmund University** (Winter Semester 2025).
+**“Ant Attraction to Sandwich Types: A Statistical Evaluation”**
 
 The analysis investigates how various sandwich attributes—including type of bread, topping, and the presence or absence of butter—affect the number of ants attracted to each variant. The project employs exploratory data analysis, ANOVA, post hoc comparisons, and Poisson regression to derive statistically valid conclusions from a fully factorial experimental design.
 
@@ -54,12 +54,6 @@ The complete academic report based on this code and analysis is available [here]
 
 ---
 
-## Academic Integrity
-
-All analysis code has been written by the applicant. No part of the code or report was generated using AI tools unless explicitly noted. The statistical approach is original, reproducible, and aligns with academic standards as outlined in the application guide for TU Dortmund.
-
----
-
 ## References
 
 * Montgomery, D. C. (2017). *Design and Analysis of Experiments*. Wiley.
@@ -73,7 +67,3 @@ All analysis code has been written by the applicant. No part of the code or repo
 
 📧 For questions regarding this analysis or the report, please contact:
 \[mohammad.hosein.alikhani08@gmail.com]
-
----
-
-**Note**: This repository is made publicly available to ensure transparency and reproducibility of the presented results, in compliance with the TU Dortmund application requirements.
